@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.mangorage.crafter.vanillacrafter.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "VanillaCrafter.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
